@@ -18,6 +18,7 @@ import {
   Polygon,
   Mumbai,
   Songbird,
+  Stardust,
   Theta,
   ThetaTestnet,
   xDai,
@@ -42,6 +43,7 @@ export const DEFAULT_SUPPORTED_CHAINS = [
   Palm,
   Polygon,
   Mumbai,
+  Stardust,
   Songbird,
   Theta,
   ThetaTestnet,
@@ -70,4 +72,5 @@ export enum ChainId {
   Avalanche = 43114,
   Songbird = 19,
   MoonbaseAlpha = 1287,
+  Stardust = 588
 }
